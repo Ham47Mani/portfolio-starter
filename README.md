@@ -13,7 +13,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://ham47mani.github.io/portfolio-starter/">
+  <a href="https://hb-portfolio-starter.vercel.app">
     <img src="public/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -22,7 +22,7 @@
   <p align="center">
     Portfolio Starter is a simple leading page
     <br />
-    <a href="">View Demo</a>
+    <a href="https://hb-portfolio-starter.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/Ham47Mani/portfolio-starter/issues">Report Bug</a>
     ·
@@ -33,7 +33,7 @@
 <br />
 <br />
 
-<img src="preview.png" alt="Preview" width="100%">
+<img src="./preview.png" alt="Preview" width="100%">
 
 
 <br />
